@@ -1,0 +1,17 @@
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/ridesandfares/EnrichedRide.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/common/sources/TaxiRideGenerator.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/common/utils/ExerciseBase.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/ridecleansing/RideCleansing.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/common/sources/TaxiFareGenerator.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/spendreport/FraudDetectionJob.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/common/utils/GeoUtils.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/common/RideCountExample.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/common/datatypes/TaxiRide.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/common/utils/DataGenerator.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/streamapi/Example.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/ridesandfares/RidesAndFaresExercise.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/common/datatypes/TaxiFare.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/spendreport/FraudDetector.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/common/utils/MissingSolutionException.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/ridesandfares/NYCEnrichment.java
+/opt/git-repos/flink-tutorials/flinktutorials/src/main/java/ridesandfares/Enrichment.java
